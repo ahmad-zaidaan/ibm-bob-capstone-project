@@ -2,6 +2,11 @@
 
 Sertifikilat adalah platform berbasis AI (Document-to-Database) yang dirancang untuk membantu mahasiswa mengekstrak informasi penting dari sertifikat kegiatan fisik maupun digital secara otomatis. Sistem ini memindai dokumen dan mengubahnya menjadi format data terstruktur yang siap diekspor atau diintegrasikan ke dalam portofolio dan Curriculum Vitae (CV).
 
+## Screenshot Preview
+
+<img width="1587" height="923" alt="Screenshot 2026-10-26 125920" src="https://github.com/user-attachments/assets/694cb961-00c9-45aa-b052-c7dd218a8bd2" />
+<img width="1255" height="921" alt="Screenshot 2026-10-26 124154" src="https://github.com/user-attachments/assets/21dbc13f-e52d-42ce-9790-fe4c4e4faf4c" />
+
 ## Fitur Utama
 
 * Multiple File Upload: Area drag-and-drop untuk mengunggah beberapa dokumen sertifikat (PDF/JPG/PNG) sekaligus.
